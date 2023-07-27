@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric Figures", "Geometric Figures\Geometric Figures.csproj", "{43286B24-1A91-43A1-92A2-9FE6AFD7FCE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43286B24-1A91-43A1-92A2-9FE6AFD7FCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43286B24-1A91-43A1-92A2-9FE6AFD7FCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43286B24-1A91-43A1-92A2-9FE6AFD7FCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43286B24-1A91-43A1-92A2-9FE6AFD7FCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7934359-A9F5-47FD-8003-FC2EFD6F9715}
+	EndGlobalSection
+EndGlobal
